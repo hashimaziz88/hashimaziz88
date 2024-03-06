@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashim</h1>
 <h3 align="center">Aspiring WebDev and Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="(https://imgur.com/gallery/qa34t/comment/1007914497">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimaziz88&label=Profile%20views&color=0e75b6&style=flat" alt="hashimaziz88" /> </p>
 

@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 
 - 🌱 I’m currently learning **Frameworks, Web Development, Back end Development**
-- 💬 Ask me about **Python, Data Sciences**
+- 💬 Ask me about **Python, Web Development, Data Sciences**
 - 📫 How to reach me **hashimazizm@gmail.com**
 - ⚡ Fun fact **I'm scared of spiders**
 

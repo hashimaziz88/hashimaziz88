@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hashim</h1>
 <h3 align="center">Aspiring WebDev and Software Developer</h3>
 
-<div style="text-align:center;">
-    <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
-        <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=hashimaziz88&theme=hacker" alt="Codewars Badge">
-    </a>
-</div>
+<p align="center">
+  <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=hashimaziz88&theme=hacker" alt="Codewars Badge">
+  </a>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 

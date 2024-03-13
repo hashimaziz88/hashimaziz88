@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=hashimaziz88&label=Profile%20views&color=0e75b6&style=flat" alt="hashimaziz88" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hashimaziz88" alt="hashimaziz88" />
-  </a>
-</p>
+![Codewars](https://github.r2v.ch/codewars?user=hashimaziz88&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 

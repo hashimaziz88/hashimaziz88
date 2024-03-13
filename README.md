@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=hashimaziz88&label=Profile%20views&color=0e75b6&style=flat" alt="hashimaziz88" />
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=hashimaziz88&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<p align="center">
+  ![Codewars](https://github.r2v.ch/codewars?user=hashimaziz88&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 

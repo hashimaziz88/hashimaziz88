@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.codewars.com/users/hashimaziz88">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=hashimaziz88&theme=hacker" alt="Codewars Badge">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=hashimaziz88&theme=light" alt="Codewars Badge">
   </a>
 </p>
 

@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring WebDev and Software Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
+  <a href="https://www.codewars.com/users/hashimaziz88">
     <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=hashimaziz88&theme=hacker" alt="Codewars Badge">
   </a>
 </p>

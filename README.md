@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring WebDev and Software Developer</h3>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/hashimaziz88">
+  <a target=”_blank” href="https://www.codewars.com/users/hashimaziz88">
     <img src="https://www.codewars.com/users/hashimaziz88/badges/large" alt="Codewars Badge">
     
   </a>

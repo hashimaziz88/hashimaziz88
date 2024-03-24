@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Frameworks, Web Development, Back end Development**
 - 💬 Ask me about **Python, Web Development, Data Sciences**
 - 📫 How to reach me **hashimazizm@gmail.com**
-- 📝 My Personal Website: [hashimaziz88.github.io](hashimaziz88.github.io)
+- 📝 My Personal Website: [https://hashimaziz88.github.io/](https://hashimaziz88.github.io/)
 - ⚡ Fun fact **I'm scared of spiders**
 
 <h3 align="left">Connect with me:</h3>

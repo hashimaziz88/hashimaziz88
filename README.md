@@ -17,7 +17,8 @@
 - ⚡ Fun fact **I'm scared of spiders**
 
 <h3 align="left">Connect with me:</h3>
-  <a href="https://linkedin.com/in/hashimaziz88" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashimaziz88" height="30" width="40" /></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hashimaziz88" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/hashimaziz88?trk=profile-badge">Hashim Aziz Muhammad</a></div>
+              
   <a href="https://stackoverflow.com/users/23390871" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23390871" height="30" width="40" /></a>
   <a href="https://instagram.com/hashimaziz88" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashimaziz88" height="30" width="40" /></a>
 </p>

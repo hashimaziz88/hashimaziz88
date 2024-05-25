@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashim</h1>
-<h3 align="center">Aspiring WebDev and Software Developer</h3>
+<h3 align="center">Aspiring WebDev and Software Developer from South Africa</h3>
 
 <p align="center">
   <a target=”_blank” href="https://www.codewars.com/users/hashimaziz88">
@@ -84,15 +84,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimaziz88&show_icons=true&locale=en&layout=compact" alt="hashimaziz88" />
-</p>
+<div style="float:right;">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimaziz88&show_icons=true&locale=en&layout=compact" alt="hashimaziz88" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashimaziz88&show_icons=true&locale=en" alt="hashimaziz88" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hashimaziz88&show_icons=true&locale=en" alt="hashimaziz88" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimaziz88&" alt="hashimaziz88" />
-</p>
-
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimaziz88&" alt="hashimaziz88" />
+  </p>
+</div>

@@ -15,7 +15,7 @@
 - 📫 How to reach me **hashimazizm@gmail.com**
 - 📝 <a target=”_blank” href="https://hashimaziz88.github.io/">My Personal Website   </a>
 - ⚡ Fun fact **I'm scared of spiders**
-
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hashimaziz88" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashimaziz88" height="30" width="40" /></a>
@@ -89,4 +89,5 @@
   <p align="right">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimaziz88&" alt="hashimaziz88" />
   </p>
+</div>
 </div>

@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hashim</h1>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/hashimaziz88" target="_blank">
+    <img src="https://www.codewars.com/users/hashimaziz88/badges/large" alt="Codewars Badge">
+  </a>
+  
+</p>
+
 <h3 align="center">Aspiring Web Developer and Software Developer from South Africa</h3>
 
 <div align="center">
@@ -91,9 +99,3 @@
   <img src="https://streak-stats.demolab.com?user=hashimaziz88&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimaziz88&radius=16&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
-
-<p align="center">
-  <a href="https://www.codewars.com/users/hashimaziz88" target="_blank">
-    <img src="https://www.codewars.com/users/hashimaziz88/badges/large" alt="Codewars Badge">
-  </a>
-</p>

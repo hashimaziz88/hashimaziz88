@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashimaziz88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" /> 
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimaziz88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> 
   <img src="https://streak-stats.demolab.com?user=hashimaziz88&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimaziz88&radius=16&theme=react&area=true" height="300" alt="GitHub Activity Graph" />

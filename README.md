@@ -36,7 +36,7 @@
 - 📫 How to reach me **hashimazizm@gmail.com**
 - 📝 <a href="https://hashimaziz88.github.io/" target="_blank">My Personal Website</a>
 - ⚡ Fun fact **I'm scared of spiders**
-
+<div>
 <h3 align="left">Languages and Tools:</h3>
 <div align="right">
   <a href="https://open.spotify.com/user/31o2tbwxtqzv4q3kqekn5sfhs6fu">
@@ -110,7 +110,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
-
+</div>
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimaziz88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> 

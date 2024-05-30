@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Hashim</h1>
 <h3 align="center">Aspiring Web Developer and Software Developer from South Africa</h3>
 
@@ -112,4 +111,3 @@
   </a>
 </p>
 </div>
-```

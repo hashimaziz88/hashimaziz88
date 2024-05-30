@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 
-- 🌱 I’m currently learning **Frameworks, Web Development, Back end Development**
+- 🌱 I’m currently learning **Data Sciences, Frameworks, Web Development, Back end Development**
 - 💬 Ask me about **Python, Web Development, Data Sciences**
 - 📫 How to reach me **hashimazizm@gmail.com**
 - 📝 <a href="https://hashimaziz88.github.io/" target="_blank">My Personal Website</a>

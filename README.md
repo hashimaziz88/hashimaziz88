@@ -39,9 +39,8 @@
 <div>
 <h3 align="left">Languages and Tools:</h3>
 <div align="right">
-  <a href="https://open.spotify.com/user/31o2tbwxtqzv4q3kqekn5sfhs6fu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o2tbwxtqzv4q3kqekn5sfhs6fu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+
+
 </div>
 
 <h4 align="left">Frontend:</h4>

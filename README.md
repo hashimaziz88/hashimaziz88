@@ -169,3 +169,8 @@
   <img src="https://streak-stats.demolab.com?user=hashimaziz88&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimaziz88&radius=16&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
+<div align="center">
+  <a href="https://open.spotify.com/user/31o2tbwxtqzv4q3kqekn5sfhs6fu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o2tbwxtqzv4q3kqekn5sfhs6fu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>

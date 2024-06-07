@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="center">Aspiring Web Developer and Software Developer from South Africa</h3>
+<h3 align="center">Web Developer and Software Developer from South Africa</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/hashimaziz88/" target="_blank">

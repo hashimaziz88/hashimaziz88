@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Hashim</h1>
 
 <p align="center">
@@ -144,4 +143,3 @@ www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://streak-stats.demolab.com?user=hashimaziz88&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimaziz88&radius=16&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
-```

@@ -124,9 +124,7 @@
 
 <h4 align="left">DevOps:</h4>
 <p align="left">
-  <a href="https://
-
-www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>

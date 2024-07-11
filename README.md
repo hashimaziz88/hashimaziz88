@@ -72,6 +72,9 @@
 
 <h4 align="left">Backend:</h4>
 <p align="left">
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203" alt="ASP.NET" width="40" height="40"/> 
+</a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   </a>
@@ -81,10 +84,6 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
   </a> 
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203" alt="ASP.NET" width="40" height="40"/> 
-</a>
-
 </p>
 
 <h4 align="left">Data Analysis, Visualization, AI, ML:</h4>

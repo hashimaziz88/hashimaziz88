@@ -29,14 +29,16 @@
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
-<div>
-- 📝 <a href="https://hashimaziz88.github.io/" target="_blank">View My Personal Website</a>
+
+
+- 📝 <a href="https://hashimaziz88.github.io/" target="_blank">My Personal Website</a>
+- 📫 How to reach me: **hashimazizm@gmail.com**
 - 🔮 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDe7NfdFu67NAjcZ0dCCatUElKN90LWs_K1nBPFKC2XT610Q/viewform?usp=sf_link" target="_blank">Lets Get in touch!</a>
 - 🌱 I’m currently learning **Data Sciences, Frameworks, Web Development, Back-end Development**
 - 💬 Ask me about **Python, Web Development, Data Sciences**
-- 📫 How to reach me: **hashimazizm@gmail.com**
 - ⚡ Fun fact: **I'm scared of spiders**
-</div>
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages:</h4>

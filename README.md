@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashim Aziz Muhammad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77B91&center=true&vCenter=true&width=500&lines=Full+Stack+%7C+React+%7C+Next.js+%7C+MERN;TS/JS+Node.js+%7C+Java+%7C+Python+7C+C#;Always+Learning+%F0%9F%92%AB+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77B91&center=true&vCenter=true&width=500&lines=Full+Stack+%7C+React+%7C+Next.js+%7C+MERN;TS/JS+Node.js+%7C+Java+%7C+Python+%5C+C#;Always+Learning+%F0%9F%92%AB+Always+Building" />
 </p>
 
 <p align="center">

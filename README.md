@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77B91&height=100&section=header"/>
+</p>
 <h1 align="center">Hi 👋, I'm Hashim Aziz Muhammad</h1>
 
 <p align="center">

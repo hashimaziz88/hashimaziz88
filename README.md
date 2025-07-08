@@ -26,7 +26,7 @@
 
 ### 🧠 About Me
 
-- 🎨 Full-Stack Developer
+- 🎨 Full-Stack Developer and passionate Software Engineer
 - 🌍 Based in **Johannesburg, South Africa**
 - 🌱 Currently exploring **Spring**, **Kubernetes**, and **Cloud**
 - 💬 Ask me about **React**, **Next.js**, **Java**, **Django**, or **Express**

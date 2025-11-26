@@ -23,6 +23,7 @@
 </p>
 
 ---
+[![committers.top badge](https://user-badge.committers.top/south_africa_private/USERNAME.svg)](https://user-badge.committers.top/south_africa_private/hashimaziz88)
 
 ### 🧠 About Me
 

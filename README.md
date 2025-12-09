@@ -22,10 +22,6 @@
   </a>
 </p>
 
-<div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
-
 ---
 [![committers.top badge](https://user-badge.committers.top/south_africa/hashimaziz88.svg)](https://user-badge.committers.top/south_africa/hashimaziz88)
 

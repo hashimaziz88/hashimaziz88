@@ -96,6 +96,8 @@
 
 ### 📈 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimaziz88&langs_count=8)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashimaziz88&show_icons=true&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimaziz88&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150"/>

@@ -22,7 +22,11 @@
   </a>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align-"center>
+   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</p>
+
+
 
 ---
 [![committers.top badge](https://user-badge.committers.top/south_africa/hashimaziz88.svg)](https://user-badge.committers.top/south_africa/hashimaziz88)
@@ -96,7 +100,6 @@
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimaziz88&langs_count=8)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashimaziz88&show_icons=true&theme=radical&hide_border=true" height="150"/>

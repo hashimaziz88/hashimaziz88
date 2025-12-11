@@ -96,12 +96,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashimaziz88&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimaziz88&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimaziz88&theme=algolia" height="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimaziz88&theme=react-dark&area=true&hide_border=true" height="250"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashimaziz88&theme=algolia" height="250"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashimaziz88&theme=algolia&utcOffset=8" height="250"/>
 </p>
 
 ---

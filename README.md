@@ -101,7 +101,7 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashimaziz88&theme=algolia" height="250"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashimaziz88&theme=algolia&utcOffset=8" height="250"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashimaziz88&theme=algolia&utcOffset=2" height="250"/>
 </p>
 
 ---

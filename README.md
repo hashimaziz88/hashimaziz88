@@ -107,7 +107,7 @@
 
 ### 🤝 Let's Connect
 
-If you're looking for a frontend ninja 🥷 or full-stack teammate who brings clean design, optimized code, and real-world delivery—[reach out on LinkedIn](https://linkedin.com/in/hashimaziz88) or [email me](mailto:hashimazizm@gmail.com). Let’s build something impactful together 🚀
+If you're looking for a frontend ninja 🥷 or full-stack teammate who brings clean design, optimized code, and real-world delivery—[reach out on LinkedIn](https://linkedin.com/in/hashimaziz88). Let’s build something impactful together 🚀
 
 ---
 

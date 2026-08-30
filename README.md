@@ -1,113 +1,107 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77B91&height=100&section=header"/>
-</p>
-<h1 align="center">Hi 👋, I'm Hashim Aziz Muhammad</h1>
+<h1 align="center">Hashim Aziz Muhammad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77B91&center=true&vCenter=true&width=500&lines=Full+Stack+%7C+React.js+%7C+Next.js+%7C+MERN;TS/JS+Node.js+%7C+Java+%7C+Python+%7C+C%23;Always+Learning+%F0%9F%92%AB+Always+Building" />
+  <strong>Software Engineer</strong><br/>
+  Johannesburg, South Africa
 </p>
 
 <p align="center">
-  <a href="https://hashimaziz88.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href=""https://hashimaziz88.girhib.io" (https://hashimaziz88.girhib.io)">
+    <img src=""https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" (https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)" />
   </a>
-  <a href="https://linkedin.com/in/hashimaziz88" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href=""https://linkedin.com/in/hashimaziz88" (https://linkedin.com/in/hashimaziz88)">
+    <img src=""https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" (https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" />
   </a>
-  <a href="https://www.codewars.com/users/hashimaziz88" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
+  <a href=""https://github.com/hashimaziz88" (https://github.com/hashimaziz88)">
+    <img src=""https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+About
 
-- 🎨 Full-Stack Developer and passionate Software Engineer
-- 🌍 Based in **Johannesburg, South Africa**
-- 🌱 Currently exploring **Spring**, **Kubernetes**, and **Cloud**
-- 💬 Ask me about **React**, **Next.js**, **Java**, **Django**, or **Express**
-- 🤝 Open to collaboration and exciting opportunities
-- ⚡ Fun fact: I'm terrified of spiders but not of solving tough bugs 🕷️➡️🐛🔨
+I'm a software engineer focused on building reliable, maintainable software across backend and full-stack systems.
 
----
+I hold a Software Engineering qualification from WeThinkCode_.
 
-### 🛠️ Tech Stack
+I work primarily with C#/.NET, TypeScript, Java, Python, React and Next.js, with an emphasis on clean architecture, API design, data modelling, testing and pragmatic engineering.
 
-#### 💻 Languages
+I'm particularly interested in the engineering problems behind modern software systems: how they are structured, how components communicate, how data flows through them, and how they can be made easier to operate and evolve.
+
+Engineering
+
+Backend Engineering       API Design              System Design
+Full-Stack Development    Data Modelling          Software Architecture
+Testing & Automation      CI/CD                   Containerisation
+Cloud & Infrastructure    Developer Tooling       AI-Assisted Engineering
+Open-Source Collaboration  FOSS Contributions     Technical Documentation
+
+Technologies
+
+Languages
+
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/></a>
+  <img src=""https://skillicons.dev/icons?i=cs,ts,js,java,python" (https://skillicons.dev/icons?i=cs,ts,js,java,python)" />
 </p>
 
-#### 🌐 Frontend
+Application Development
+
 <p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+  <img src=""https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,django,express" (https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,django,express)" />
 </p>
 
-#### 🧩 Backend
+Data
+
 <p>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40"/></a>
+  <img src=""https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" (https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)" />
 </p>
 
-#### 📊 Data Science & ML
+Engineering Tools
+
 <p>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
+  <img src=""https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman" (https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman)" />
 </p>
 
-#### 🛢️ Databases
-<p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a>
-</p>
+Open Source and FOSS
 
-#### 🛠️ Tools & Platforms
-<p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-[![committers.top badge](https://user-badge.committers.top/south_africa_public/hashimaziz88.svg)](https://user-badge.committers.top/south_africa_public/hashimaziz88)
+I contribute to free and open-source software through code, documentation, issue investigation, reviews and collaborative engineering. My FOSS work and contribution history are available through my portfolio:
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimaziz88&theme=algolia" height="250"/>
+  <a href=""https://hashimaziz88.girhib.io" (https://hashimaziz88.girhib.io)">
+    <img src=""https://img.shields.io/badge/FOSS%20Contributions-View%20Portfolio-2ea44f?style=flat-square&logo=github&logoColor=white" (https://img.shields.io/badge/FOSS%20Contributions-View%20Portfolio-2ea44f?style=flat-square&logo=github&logoColor=white)" />
+  </a>
+</p>
+
+GitHub Activity
+
+<p align="center">
+  <img src=""https://github-readme-stats.vercel.app/api?username=hashimaziz88&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" (https://github-readme-stats.vercel.app/api?username=hashimaziz88&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)" />
+  <img src=""https://github-readme-stats.vercel.app/api/top-langs/?username=hashimaziz88&layout=compact&hide_border=true&theme=github_dark" (https://github-readme-stats.vercel.app/api/top-langs/?username=hashimaziz88&layout=compact&hide_border=true&theme=github_dark)" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashimaziz88&theme=algolia" height="250"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashimaziz88&theme=algolia&utcOffset=2" height="250"/>
+  <img src=""https://github-readme-streak-stats.herokuapp.com/?user=hashimaziz88&hide_border=true&theme=github-dark" (https://github-readme-streak-stats.herokuapp.com/?user=hashimaziz88&hide_border=true&theme=github-dark)" />
 </p>
 
----
+Currently Exploring
 
-### 🤝 Let's Connect
-
-If you're looking for a frontend ninja 🥷 or full-stack teammate who brings clean design, optimized code, and real-world delivery—[reach out on LinkedIn](https://linkedin.com/in/hashimaziz88). Let’s build something impactful together 🚀
+- Distributed and cloud-native systems
+- Kubernetes and container orchestration
+- Software architecture and system design
+- AI-assisted software development and engineering automation
+- Open-source collaboration and FOSS contribution workflows
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77B91&height=100&section=footer"/>
+  <img src=""https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimaziz88&theme=github_dark" (https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimaziz88&theme=github_dark)" />
+</p>
+
+<p align="center">
+  <a href=""https://linkedin.com/in/hashimaziz88" (https://linkedin.com/in/hashimaziz88)">LinkedIn</a>
+  ·
+  <a href=""https://hashimaziz88.girhib.io" (https://hashimaziz88.girhib.io)">Portfolio</a>
+  ·
+  <a href=""https://github.com/hashimaziz88" (https://github.com/hashimaziz88)">GitHub</a>
 </p>

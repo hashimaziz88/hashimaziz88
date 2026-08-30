@@ -1,56 +1,113 @@
-Hashim Aziz Muhammad
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77B91&height=100&section=header"/>
+</p>
+<h1 align="center">Hi 👋, I'm Hashim Aziz Muhammad</h1>
 
-Software Engineer
-Johannesburg, South Africa
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77B91&center=true&vCenter=true&width=500&lines=Full+Stack+%7C+React.js+%7C+Next.js+%7C+MERN;TS/JS+Node.js+%7C+Java+%7C+Python+%7C+C%23;Always+Learning+%F0%9F%92%AB+Always+Building" />
+</p>
 
-""Portfolio" (https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)" (https://hashimaziz88.github.io)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" (https://linkedin.com/in/hashimaziz88)
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)" (https://github.com/hashimaziz88)
-
-About
-
-I'm a software engineer focused on building reliable, maintainable software across backend and full-stack systems.
-
-I hold a Software Engineering qualification from WeThinkCode_.
-
-I work primarily with C#/.NET, TypeScript, Java, Python, React, and Next.js, with an emphasis on clean architecture, API design, data modelling, testing, and pragmatic engineering.
-
-I'm particularly interested in backend engineering, system design, cloud-native systems, developer tooling, and AI-assisted software engineering.
-
-Technologies
-
-Languages
-
-"Languages" (https://skillicons.dev/icons?i=cs,ts,js,java,python)
-
-Application Development
-
-"Application Development" (https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,django,express)
-
-Data
-
-"Data" (https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
-
-Engineering Tools
-
-"Engineering Tools" (https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman)
-
-Engineering Interests
-
-- Backend engineering
-- API and system design
-- Software architecture
-- Data modelling
-- Testing and automation
-- CI/CD and containerisation
-- Cloud-native systems
-- Developer tooling
-- AI-assisted software engineering
-
-GitHub Activity
-
-"GitHub Profile Summary" (https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimaziz88&theme=github_dark)
+<p align="center">
+  <a href="https://hashimaziz88.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hashimaziz88" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/hashimaziz88" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-"LinkedIn" (https://linkedin.com/in/hashimaziz88) · "Portfolio" (https://hashimaziz88.github.io) · "GitHub" (https://github.com/hashimaziz88)
+### 🧠 About Me
+
+- 🎨 Full-Stack Developer and passionate Software Engineer
+- 🌍 Based in **Johannesburg, South Africa**
+- 🌱 Currently exploring **Spring**, **Kubernetes**, and **Cloud**
+- 💬 Ask me about **React**, **Next.js**, **Java**, **Django**, or **Express**
+- 🤝 Open to collaboration and exciting opportunities
+- ⚡ Fun fact: I'm terrified of spiders but not of solving tough bugs 🕷️➡️🐛🔨
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/></a>
+</p>
+
+#### 🌐 Frontend
+<p>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+</p>
+
+#### 🧩 Backend
+<p>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40"/></a>
+</p>
+
+#### 📊 Data Science & ML
+<p>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
+</p>
+
+#### 🛢️ Databases
+<p>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a>
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
+  <a href="https://figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+[![committers.top badge](https://user-badge.committers.top/south_africa_public/hashimaziz88.svg)](https://user-badge.committers.top/south_africa_public/hashimaziz88)
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashimaziz88&theme=algolia" height="250"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashimaziz88&theme=algolia" height="250"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashimaziz88&theme=algolia&utcOffset=2" height="250"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+If you're looking for a frontend ninja 🥷 or full-stack teammate who brings clean design, optimized code, and real-world delivery—[reach out on LinkedIn](https://linkedin.com/in/hashimaziz88). Let’s build something impactful together 🚀
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77B91&height=100&section=footer"/>
+</p>
